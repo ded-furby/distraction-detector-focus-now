@@ -36,7 +36,7 @@ NEXT_PUBLIC_GAZE_WS_URL=ws://your-host:8000/ws/gaze
 
 Place your video here after the project is ready:
 
-`/Users/arjun/Documents/Playground/nextjs-app/public/distraction.mp4`
+`/nextjs-app/public/distraction.mp4`
 
 The player is already wired to that filename.
 
