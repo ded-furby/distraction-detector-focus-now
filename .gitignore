@@ -1,0 +1,16 @@
+.DS_Store
+.env
+.env.local
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+nextjs-app/node_modules/
+nextjs-app/.next/
+nextjs-app/out/
+
+python-backend/.mypy_cache/
+python-backend/.ruff_cache/
