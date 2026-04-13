@@ -5,7 +5,7 @@ import {
   useRef,
   useState
 } from "react";
-
+#this is the first knoy-code commit
 function getDefaultWsUrl() {
   if (typeof window === "undefined") {
     return "ws://localhost:8000/ws/gaze";
